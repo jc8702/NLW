@@ -6,7 +6,7 @@
 
 Projeto construído do evento Próxima Semana de Nível da Rocketseat.
 
-[Clique aqui para acessar.](https://jc8702.github.io/NLW-esports-explorer)
+[Clique aqui para acessar.](https://jc8702.github.io/NLW-eSports-explorer)
 
 ## Tecnologias
 
